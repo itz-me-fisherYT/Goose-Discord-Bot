@@ -1,10 +1,3 @@
-Perfect 😎 — here’s a **complete, professional, and eye-catching README.md** ready for GitHub.
-It includes badges, descriptions, setup, usage, credits, and visuals — everything a polished project page should have.
-
-You can copy-paste this straight into a file called `README.md` in VS Code.
-
----
-
 ````markdown
 # 🎯 Discord Quote & YouTube Notification Bot
 
