@@ -8,11 +8,11 @@ You can copy-paste this straight into a file called `README.md` in VS Code.
 ````markdown
 # 🎯 Discord Quote & YouTube Notification Bot
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Discord](https://img.shields.io/badge/Discord-Bot-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Project-Active-success)
-![Made With](https://img.shields.io/badge/Made%20With-Love-red)
+[Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+[Discord](https://img.shields.io/badge/Discord-Bot-blueviolet)
+[License](https://img.shields.io/badge/License-MIT-green)
+[Status](https://img.shields.io/badge/Project-Active-success)
+[Made With](https://img.shields.io/badge/Made%20With-Love-red)
 
 > A powerful yet easy-to-use **Discord bot** that mixes **fun quote commands**, **moderation tools**, and **automatic YouTube notifications** for videos, shorts, and live streams — all in one package!  
 > Ideal for Minecraft communities, creators, or servers that love both fun and functionality.
