@@ -1,0 +1,9 @@
+<!doctype html>
+<html><head><title>Bot Backups Dashboard</title></head><body>
+<h1>Guild Backups</h1>
+<ul>
+{% for g in guilds %}
+  <li><strong>{{ g.name or "Unknown" }}</strong> (ID: {{ g.id }}) - Channels: {{ g.channels|length }} - Roles: {{ g.roles|length }} - <a href="/backup/guild_{{ g.id }}.json">Download</a></li>
+{% endfor %}
+</ul>
+</body></html>
