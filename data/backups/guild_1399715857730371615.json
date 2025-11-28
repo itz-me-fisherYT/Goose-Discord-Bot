@@ -1,0 +1,224 @@
+{
+  "id": 1399715857730371615,
+  "name": "ItzRealFisher Support Server",
+  "roles": [
+    {
+      "id": 1399715857730371615,
+      "name": "@everyone",
+      "permissions": 2248473465704001
+    },
+    {
+      "id": 1428334186292314195,
+      "name": "Bot",
+      "permissions": 0
+    },
+    {
+      "id": 1428334185340342412,
+      "name": "\u2800",
+      "permissions": 0
+    },
+    {
+      "id": 1428334183842844683,
+      "name": "More Pings",
+      "permissions": 0
+    },
+    {
+      "id": 1428334183150911499,
+      "name": "Member",
+      "permissions": 0
+    },
+    {
+      "id": 1428334182211260426,
+      "name": "\u2800",
+      "permissions": 0
+    },
+    {
+      "id": 1428334180672077877,
+      "name": "\u2728 [LVL 5]",
+      "permissions": 0
+    },
+    {
+      "id": 1428334180030349493,
+      "name": "\u2b50 [LVL 10]",
+      "permissions": 0
+    },
+    {
+      "id": 1428334178168082524,
+      "name": "\ud83c\udf1f [LVL 15]",
+      "permissions": 0
+    },
+    {
+      "id": 1428334176846876814,
+      "name": "\ud83d\udcab [LVL 20]",
+      "permissions": 0
+    },
+    {
+      "id": 1428334168743612486,
+      "name": "\ud83c\udf20 [LVL 50]",
+      "permissions": 0
+    },
+    {
+      "id": 1428334167783116850,
+      "name": "\ud83c\udfc6 Champion",
+      "permissions": 0
+    },
+    {
+      "id": 1428334166176698409,
+      "name": "\ud83d\udc51 VIP",
+      "permissions": 0
+    },
+    {
+      "id": 1428334165014872185,
+      "name": "Muted",
+      "permissions": 0
+    },
+    {
+      "id": 1428334163458523137,
+      "name": "\u2800",
+      "permissions": 0
+    },
+    {
+      "id": 1428334161944379403,
+      "name": "Staff",
+      "permissions": 256
+    },
+    {
+      "id": 1428334160283701280,
+      "name": "Moderator",
+      "permissions": 9914021847170
+    },
+    {
+      "id": 1428334158991593585,
+      "name": "Head Moderator",
+      "permissions": 17601044545556
+    },
+    {
+      "id": 1428334157209145365,
+      "name": "Administrator",
+      "permissions": 8
+    },
+    {
+      "id": 1428334156349444106,
+      "name": "Owner",
+      "permissions": 8
+    },
+    {
+      "id": 1428334155560652885,
+      "name": "\u2800",
+      "permissions": 0
+    },
+    {
+      "id": 1428333987658596429,
+      "name": "Xenon",
+      "permissions": 8
+    },
+    {
+      "id": 1412391496837107789,
+      "name": "Dyno",
+      "permissions": 1513962695871
+    }
+  ],
+  "channels": [
+    {
+      "id": 1428334225962045582,
+      "name": "\ud83d\udccc Important",
+      "type": "category"
+    },
+    {
+      "id": 1428334227212075039,
+      "name": "\ud83d\udcac General",
+      "type": "category"
+    },
+    {
+      "id": 1428334228650721382,
+      "name": "\ud83d\udea7 Staff",
+      "type": "category"
+    },
+    {
+      "id": 1428334229745569792,
+      "name": "\ud83d\udccf\u30fbrules",
+      "type": "text"
+    },
+    {
+      "id": 1428334231012249620,
+      "name": "\ud83d\udcdc\u30fbinformation",
+      "type": "text"
+    },
+    {
+      "id": 1428334232266084422,
+      "name": "\ud83c\udd98\u30fbsupport",
+      "type": "text"
+    },
+    {
+      "id": 1428334233344151612,
+      "name": "\ud83d\udce2\u30fbannouncements",
+      "type": "text"
+    },
+    {
+      "id": 1428334234577408001,
+      "name": "\ud83d\udcac\u30fbgeneral",
+      "type": "text"
+    },
+    {
+      "id": 1428334235692957867,
+      "name": "\ud83e\udd16\u30fbbot-commands",
+      "type": "text"
+    },
+    {
+      "id": 1428334236657647616,
+      "name": "\u2753\u30fbsuggestions",
+      "type": "text"
+    },
+    {
+      "id": 1428334237844766750,
+      "name": "\ud83d\udd0a\u30fb General",
+      "type": "voice"
+    },
+    {
+      "id": 1428334239048400980,
+      "name": "\u30fbstaff-announcements",
+      "type": "text"
+    },
+    {
+      "id": 1428334240201834538,
+      "name": "\u30fbmod-chat",
+      "type": "text"
+    },
+    {
+      "id": 1428334241921372190,
+      "name": "\u30fbhead-mod-chat",
+      "type": "text"
+    },
+    {
+      "id": 1428334243452293203,
+      "name": "\u30fbadmin-chat",
+      "type": "text"
+    },
+    {
+      "id": 1428334245176148029,
+      "name": "\u30fbreports",
+      "type": "text"
+    },
+    {
+      "id": 1428334248313622539,
+      "name": "\u30fbMod Chat",
+      "type": "voice"
+    },
+    {
+      "id": 1428334249601400874,
+      "name": "\u30fbAdmin Chat",
+      "type": "voice"
+    },
+    {
+      "id": 1428334998838054912,
+      "name": "\u30fbcontact-me",
+      "type": "text"
+    },
+    {
+      "id": 1428729105087594587,
+      "name": "\u30fblogs-2",
+      "type": "text"
+    }
+  ],
+  "timestamp": "2025-11-28T08:17:24.595415"
+}
